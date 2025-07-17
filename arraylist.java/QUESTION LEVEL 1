@@ -1,0 +1,32 @@
+Easy Level 1
+| No.    | Description                                                                     |
+| ------ | ------------------------------------------------------------------------------- |
+| 1️⃣    | Create an ArrayList of colors and print it.                                     |
+| 2️⃣    | Create an ArrayList of integers and print it.                                   |
+| 3️⃣    | Check if a specific name (e.g., "arish") exists in the ArrayList.               |
+| 4️⃣    | Sort an ArrayList of integers (attempted indirectly).                           |
+| 5️⃣    | Check if ArrayList is empty or not using `list.size()`.                         |
+| 6️⃣    | Print ArrayList elements using a `for` loop.                                    |
+| 7️⃣    | Remove element at a specific index (`list.remove(index)`).                      |
+| 8️⃣    | Replace specific value in ArrayList using `Collections.replaceAll()`.           |
+| 9️⃣    | Get the index of a particular number using `indexOf()`.                         |
+| 🔟     | Sum of all values greater than a number (initially had logic bugs, then fixed). |
+| 1️⃣1️⃣ | Find max and min from the ArrayList (attempted with fixes).                     |
+| 1️⃣2️⃣ | Create a function that returns the sum of all ArrayList values.                 |
+| 1️⃣3️⃣ | Find size of an ArrayList using `list.size()`.                                  |
+| 1️⃣4️⃣ | Print all elements using a `for-each` loop.                                     |
+| 1️⃣5️⃣ | Return the first even number from an ArrayList.                                 |
+| 1️⃣6️⃣ | Count how many values are greater than `10`.                                    |
+| 1️⃣7️⃣ | Count how many values are divisible by 3.                                       |
+| 1️⃣8️⃣ | Check if list contains a specific number with `% 3 == number` condition.        |
+| 1️⃣9️⃣ | Check if a number entered by user exists in the ArrayList.                      |
+| 2️⃣0️⃣ | Print values greater than a user-given number.                                  |
+| 2️⃣1️⃣ | Print only values at even indexes.                                              |
+| 2️⃣2️⃣ | Print the ArrayList in reverse order (fixed final version).                     |
+| 2️⃣3️⃣ | Print only odd numbers (used for prime logic indirectly).                       |
+| 2️⃣4️⃣ | Replace all even numbers with `0` in the ArrayList.                             |
+| 2️⃣5️⃣ | Multiply all elements by 2 (you fixed and submitted the final working version). |
+| 2️⃣6️⃣ | Calculate the average of ArrayList elements (final correct version submitted).  |
+
+
+26 questions completed of array list on 22 june 2025
