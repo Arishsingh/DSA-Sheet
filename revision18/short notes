@@ -1,0 +1,36 @@
+--> to add in arraylist
+list.add
+--> to add at specific index
+list.add(1,10);
+--> to update the value of a speacific index
+list.set(2,18);
+--> remove from an index
+list.remove(1);
+--> remove from value
+list.remove(integr.valueof(10));
+--> check if a element exist or not
+list.contains(2);
+--> check index of
+list.indexof(3);
+--> clear all elements
+list.clear();
+--> check if its isEmpty
+list.isEmpty()
+--> to print foreach
+for (Integer lists : list) {
+    System.out.println(lists);
+--> sort
+collections.sort(list);
+--> copy one arraylist to another
+ArrayList<Integer>meow = new ArrayaList<>();
+meow .addAll(list);
+
+--> sort in decending Order
+collections.sort(list, collection.reverseOrder());
+
+-->
+
+for(Integer num : list2){
+    if(list1.contains(num)){
+        commonlist.add(num);
+    }
