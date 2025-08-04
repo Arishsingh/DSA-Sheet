@@ -11,7 +11,7 @@
 
 ## 📌 About This Repo
 
-Welcome to **Arish's DSA Sheet** – Everyone have their own journey so focus on yours.
+Welcome to **Arish's DSA Sheet** – Everyone has their own journey so focus on yours.
 
 This sheet contains:
 - 📋 A curated list of handpicked DSA questions.
